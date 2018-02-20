@@ -1,0 +1,159 @@
+{
+  "actor": {
+    "username": "funkynet",
+    "type": "team",
+    "display_name": "funkynet",
+    "uuid": "{5aef86a9-4004-455d-9e27-95bd08}",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/teams/funkynet"
+      },
+      "html": {
+        "href": "https://bitbucket.org/funkynet/"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/account/funkynet/avatar/32/"
+      }
+    }
+  },
+  "repository": {
+    "scm": "git",
+    "website": "",
+    "name": "base-zipkin",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin"
+      },
+      "html": {
+        "href": "https://bitbucket.org/funkynet/base-zipkin"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/funkynet/base-zipkin/avatar/32/"
+      }
+    },
+    "project": {
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/teams/funkynet/projects/NA"
+        },
+        "html": {
+          "href": "https://bitbucket.org/account/user/funkynet/projects/NA"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/user/funkynet/projects/NA/avatar/32"
+        }
+      },
+      "type": "project",
+      "uuid": "{1d512d4f-a8e4-4661-a8b7-313888}",
+      "key": "NA",
+      "name": "New Architecture"
+    },
+    "full_name": "funkynet/base-zipkin",
+    "owner": {
+      "username": "funkynet",
+      "type": "team",
+      "display_name": "funkynet",
+      "uuid": "{5aef86a9-4004-455d-9e27-95bd08}",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/teams/funkynet"
+        },
+        "html": {
+          "href": "https://bitbucket.org/funkynet/"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/funkynet/avatar/32/"
+        }
+      }
+    },
+    "type": "repository",
+    "is_private": true,
+    "uuid": "{f66b6836-34f2-4521-9525-3b05c6}"
+  },
+  "commit_status": {
+    "links": {
+      "commit": {
+        "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0"
+      },
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0/statuses/build/-569102792"
+      }
+    },
+    "repository": {
+      "full_name": "funkynet/base-zipkin",
+      "type": "repository",
+      "name": "base-zipkin",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin"
+        },
+        "html": {
+          "href": "https://bitbucket.org/funkynet/base-zipkin"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/funkynet/base-zipkin/avatar/32/"
+        }
+      },
+      "uuid": "{f66b6836-34f2-4521-9525-3b05c6}"
+    },
+    "url": "https://bitbucket.org/funkynet/base-zipkin/addon/pipelines/home#!/results/36",
+    "refname": "feature/pipelines",
+    "name": "Pipeline #36 for feature/pipelines",
+    "state": "SUCCESSFUL",
+    "key": "-569102792",
+    "updated_on": "2018-02-19T15:41:14.198616+00:00",
+    "commit": {
+      "hash": "18c35f8f41620723780436d99b472df6f2b6bbc0",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0"
+        },
+        "comments": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0/comments"
+        },
+        "patch": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/patch/18c35f8f41620723780436d99b472df6f2b6bbc0"
+        },
+        "html": {
+          "href": "https://bitbucket.org/funkynet/base-zipkin/commits/18c35f8f41620723780436d99b472df6f2b6bbc0"
+        },
+        "diff": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/diff/18c35f8f41620723780436d99b472df6f2b6bbc0"
+        },
+        "approve": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0/approve"
+        },
+        "statuses": {
+          "href": "https://api.bitbucket.org/2.0/repositories/funkynet/base-zipkin/commit/18c35f8f41620723780436d99b472df6f2b6bbc0/statuses"
+        }
+      },
+      "author": {
+        "raw": "Alejandro Torres <fulgorek@gmail.com>",
+        "type": "author",
+        "user": {
+          "username": "fulgorek",
+          "type": "user",
+          "display_name": "Alejandro Torres",
+          "uuid": "{95d87065-f457-4011-a9d3-3b69ed60407b}",
+          "links": {
+            "self": {
+              "href": "https://api.bitbucket.org/2.0/users/fulgorek"
+            },
+            "html": {
+              "href": "https://bitbucket.org/fulgorek/"
+            },
+            "avatar": {
+              "href": "https://bitbucket.org/account/fulgorek/avatar/32/"
+            }
+          }
+        }
+      },
+      "date": "2018-02-15T11:51:19+00:00",
+      "message": "prevent register in eureka an removed unused port\n",
+      "type": "commit"
+    },
+    "type": "build",
+    "created_on": "2018-02-15T11:52:32.001507+00:00",
+    "description": ""
+  }
+}
