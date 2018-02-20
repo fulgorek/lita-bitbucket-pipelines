@@ -2,6 +2,6 @@ en:
   lita:
     handlers:
       bitbucket_pipelines:
-        initiated: "%{user} triggered build %{build} %{repo} \n%{url}"
-        successful: "Build %{build} Success :parrot:"
-        error: "%{build} Failed \n%{url}"
+        initiated: "%{user} triggered build %{repo}:%{build} \n%{url}"
+        successful: "Build %{repo}:%{build} Success :parrot:"
+        error: "%{repo}:%{build} Failed \n%{url}"
